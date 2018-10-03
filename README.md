@@ -1,5 +1,4 @@
 # ICS 199 Applied Computing Project - Strictly Analog
-[![build status](https://gitlab.camosun.bc.ca/ics199grp02/strictly-analog/badges/master/build.svg)](https://gitlab.camosun.bc.ca/ics199grp02/strictly-analog/commits/master)
 
 ## Purpose:
 This is our project now. The *Collaborating with Git and GitLab slides* explain how to use this to start your own team's project.
